@@ -1,6 +1,4 @@
 # SUSpray.py
-Scripts to automate pentesting processes
-Certainly, here's a description for the Python password spray script:
 
 ---
 
